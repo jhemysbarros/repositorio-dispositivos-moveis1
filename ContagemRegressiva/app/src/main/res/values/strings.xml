@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contagem Regressiva</string>
+    <string name="iniciar_contagem">Iniciar</string>
+    <string name="pousar_contagem">Pause</string>
+    <string name="resume_contagem">Resume</string>
+    <string name="label_contagem">10</string>
+</resources>
