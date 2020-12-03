@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Teste Broadcast Receiver</string>
+    <string name="printTela">Teste do modo avião usando BroadcastReceiver</string>
+</resources>
